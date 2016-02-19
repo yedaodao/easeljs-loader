@@ -1,0 +1,30 @@
+{
+  "name": "easeljs-loader",
+  "version": "0.1.0",
+  "description": "The webpack loader for easeljs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yedaodao/easeljs-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "easeljs"
+  ],
+  "author": "yedaodao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yedaodao/easeljs-loader/issues"
+  },
+  "homepage": "https://github.com/yedaodao/easeljs-loader#readme",
+  "dependencies": {
+    "loader-utils": "^0.2.12"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.13"
+  }
+}
